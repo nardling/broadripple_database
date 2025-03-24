@@ -1,0 +1,13 @@
+Insert into bea_datasets (id, description) values ('NIPA', 'Standard NIPA tables');
+Insert into bea_datasets (id, description) values ('NIUnderlyingDetail', 'Standard NI underlying detail tables');
+Insert into bea_datasets (id, description) values ('MNE', 'Multinational Enterprises');
+Insert into bea_datasets (id, description) values ('FixedAssets', 'Standard Fixed Assets tables');
+Insert into bea_datasets (id, description) values ('ITA', 'International Transactions Accounts');
+Insert into bea_datasets (id, description) values ('IIP', 'International Investment Position');
+Insert into bea_datasets (id, description) values ('InputOutput', 'Input-Output Data');
+Insert into bea_datasets (id, description) values ('IntlServTrade', 'International Services Trade');
+Insert into bea_datasets (id, description) values ('IntlServSTA', 'International Services Supplied Through Affiliates');
+Insert into bea_datasets (id, description) values ('GDPbyIndustry', 'GDP by Industry');
+Insert into bea_datasets (id, description) values ('Regional', 'Regional data sets');
+Insert into bea_datasets (id, description) values ('UnderlyingGDPbyIndustry', 'Underlying GDP by Industry');
+Insert into bea_datasets (id, description) values ('APIDatasetMetaData', 'Metadata about other API datasets');

@@ -1,0 +1,5 @@
+&for=state:*&county:&place - is the structure
+There are codes, though.  What are the codes? They are in PopulateGeoData.sql
+
+
+https://docs.fedoraproject.org/en-US/quick-docs/postgresql/
