@@ -114,3 +114,10 @@ create table label_alias (
     alias varchar(50),
     primary key (variable_name)
 );
+
+create table year_variable_offset(
+    year int,
+    base_variable_name varchar(50),
+    offset_variable varchar(50),
+    primary key (year, base_variable_name)
+);
